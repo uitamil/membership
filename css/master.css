@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;900&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&family=DM+Sans:wght@400;500;700&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family :'Poppins';
+}
+h1{
+    font-size: 25px;
+    color:black;
+}
+h2{
+    font-size: 20px;
+    color: black;
+}
+.header{
+    background-color: #eee;
+    padding-top: 50px;
+    
+}
+h1,h2,h3,h4,h5,p,span,a{
+    font-family:"Poppins";
+}
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0px 25px;
+    border: 8px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #4b4a47, #ae9678);
+}
+.hr1{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+.hr1 img{
+    width: 300px;
+    padding-top: 20px;
+}
+.welcome{
+    font-size: 20px;
+    color: black;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.hr3{
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 20px;
+}
+
+.hr3 .paragraph p{
+    text-align: center;
+}
+.hr3 .startyour{
+
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.hr3 .startyour a{
+    text-decoration: none;
+    border: 1px;
+    border-radius: 10px;
+    background-color: green;
+    padding: 10px;
+
+    color: white;
+    font-size: 18px;
+}
+.hr3 .startyourlogin a{
+    text-decoration: none;
+    border: 1px;
+    border-radius: 10px;
+    background-color: #0e5083;
+    padding: 10px;
+
+    color: white;
+    font-size: 18px;
+}
+.hr4{
+    display: flex;
+    flex-direction: column;
+}
+.hr4 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.hr4 p{
+    font-size: 15px;
+    font-weight: 500;
+     padding: 0 15px;
+}
+.hr4 h3{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+   
+}
+.hr5{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.hr5 span{
+    padding: 0 20px;
+}
+.hr6{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.hr6 span{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.hr6 a{
+    text-decoration: none;
+    color: black;
+}
+.hr7{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+}
+.images span img{
+    height: 72px;
+    margin: 0 25px;
+}
+.content h3{
+text-align: center;
+
+}
+.content h5{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.content h4{
+    text-align: center;
+}
+.hr2 img{
+    width: 100%;
+    height: 250px;
+}
+.websitename
+{
+    color:#41B85E;
+}
+.fa
+{
+    color:black;
+}
+
+
+p.head_tit {
+    font-weight: 500;
+    color: #f4b028;
+    font-size: 17px;
+}
+.benefits_prt li{
+	list-style: none;
+	  line-height: 1.5;
+}
+a {
+    text-decoration: none;
+    color: #432f01;
+}
+.gifts_part li {
+    list-style: none;
+	padding-bottom:10px;
+    color: #432f01;
+    line-height: 1.5;
+}
+span.note {
+    color: #ae9678;
+    font-weight: 700;
+}
+p.swar_team {
+    padding-top: 0px;
+    margin-top: 0px;
+	    padding-bottom: 40px;
+		text-align: right;
+}
+span.vocher_1 {
+    display: block;
+    font-size: 15px;
+    line-height: 1.5;
+}
+p.your_sinc {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+	text-align: right;
+}
+
