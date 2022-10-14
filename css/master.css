@@ -203,3 +203,20 @@ p.your_sinc {
 	text-align: right;
 }
 
+@media screen and (max-width: 768px){
+.container {
+    width: 250px;
+}
+.hr1 {
+    display: flex;
+    justify-content: center;
+    width:250px;
+}
+.hr1 img {
+    width: 180px;
+    padding-top: 20px;
+}
+.hr7 {
+    text-align: center;
+}
+}
